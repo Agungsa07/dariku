@@ -1,0 +1,2 @@
+# dariku
+script dariku
